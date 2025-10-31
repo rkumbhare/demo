@@ -1,51 +1,16 @@
 [
-    {
-      "id": 1,
-      "title": "Juicy Cheese Burger",
-      "slug": "juicy-cheese-burger",
-      "creator_name": "John Doe",
-      "creator_email": "johndoe@example.com"
-    },
-    {
-      "id": 2,
-      "title": "Spicy Curry",
-      "slug": "spicy-curry",
-      "creator_name": "Max Schwarz",
-      "creator_email": "max@example.com"
-    },
-    {
-      "id": 3,
-      "title": "Homemade Dumplings",
-      "slug": "homemade-dumplings",
-      "creator_name": "Emily Chen",
-      "creator_email": "emilychen@example.com"
-    },
-    {
-      "id": 4,
-      "title": "Classic Mac n Cheese",
-      "slug": "classic-mac-n-cheese",
-      "creator_name": "Laura Smith",
-      "creator_email": "laurasmith@example.com"
-    },
-    {
-      "id": 5,
-      "title": "Authentic Pizza",
-      "slug": "authentic-pizza",
-      "creator_name": "Mario Rossi",
-      "creator_email": "mariorossi@example.com"
-    },
-    {
-      "id": 6,
-      "title": "Wiener Schnitzel",
-      "slug": "wiener-schnitzel",
-      "creator_name": "Franz Huber ",
-      "creator_email": "franzhuber@example.com"
-    },
-    {
-      "id": 7,
-      "title": "Fresh Tomato Salad",
-      "slug": "fresh-tomato-salad",
-      "creator_name": "Sophia Green",
-      "creator_email": "sophiagreen@example.com"
+     {
+	  "id": 1,
+	  "slug": "juicy-cheese-burger",
+	  "title": "Juicy Cheese Burger",
+	  "creator": {
+		"creator": "John Doe",
+		"creator_email": "johndoe@example.com"
+	  },
+	  "details" : {
+		  "image": "/images/burger.jpg",
+		  "summary": "A mouth-watering burger with a juicy beef patty and melted cheese, served in a soft bun.",
+		  "instructions": "<br />1. Prepare the patty: Mix 200g of ground beef with salt and pepper. Form into a patty.<br />2. Cook the patty: Heat a pan with a bit of oil. Cook the patty for 2-3 minutes each side, until browned.<br />3. Assemble the burger: Toast the burger bun halves. Place lettuce and tomato on the bottom half. Add the cooked patty and top with a slice of cheese.<br />4. Serve: Complete the assembly with the top bun and serve hot."
+	  }
     }
-  ]
+]
