@@ -1,5 +1,5 @@
 {
-  meals: [
+  meals: [ 
   {
     title: 'Juicy Cheese Burger',
     slug: 'juicy-cheese-burger',
