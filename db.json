@@ -1,5 +1,4 @@
-{
-  "meals": [
+[
     {
       "title": "Juicy Cheese Burger",
       "slug": "juicy-cheese-burger",
@@ -64,4 +63,3 @@
       "creator_email": "sophiagreen@example.com"
     }
   ]
-}
