@@ -43,7 +43,7 @@
 	  }
     },
     {
-	 "id": 4
+	 "id": 4,
       "slug": "classic-mac-n-cheese",
 	  "title": "Classic Mac n Cheese",
 	  "details" : {
@@ -71,7 +71,7 @@
 	  }
     },
     {
-		 "id": 6
+		 "id": 6,
       "title": "Wiener Schnitzel",
       "slug": "wiener-schnitzel",
 	  "details" : {
@@ -85,7 +85,7 @@
 	  }
     },
     {
-		 "id": 7
+		 "id": 7,
       "title": "Fresh Tomato Salad",
       "slug": "fresh-tomato-salad",
 	  "details" : {
