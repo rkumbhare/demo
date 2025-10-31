@@ -5,8 +5,8 @@
       "slug": "juicy-cheese-burger",
       "title": "Juicy Cheese Burger",
       "creator": {
-        "creator": "John Doe",
-        "creator_email": "johndoe@example.com"
+        "name": "John Doe",
+        "email": "johndoe@example.com"
       },
       "details": {
         "image": "/images/burger.jpg",
