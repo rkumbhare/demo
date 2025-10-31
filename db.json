@@ -4,10 +4,8 @@
       "id": 1,
       "slug": "juicy-cheese-burger",
       "title": "Juicy Cheese Burger",
-      "creator": {
-        "name": "John Doe",
+       "name": "John Doe",
         "email": "johndoe@example.com"
-      }
     }
   ]
 }
